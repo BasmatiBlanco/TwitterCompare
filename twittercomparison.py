@@ -34,4 +34,4 @@ def compare_tweet_favs(user1, user2):
 
 
 
-compare_tweet_favs("RealDonaldTrump", "bossenator")
+compare_tweet_favs("RealDonaldTrump", "chrissyteigen")
